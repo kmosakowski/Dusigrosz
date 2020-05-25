@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Dusigrosz</string>
+    <string name="imi">Imię</string>
+    <string name="nazwis">Nazwisko</string>
+    <string name="z">Zł</string>
+    <string name="d_ug">Dług</string>
+    <string name="_100">-100zł</string>
+    <string name="title_home">Home</string>
+    <string name="title_activity_navigation_button">navigation_button</string>
+    <string name="waluta">zł</string>
+    <string name="pogr">Pogrąż</string>
+    <string name="odpu_doci_nij">Odpuść/Dociśnij</string>
+    <string name="uwolni">Uwolnić?</string>
+    <string name="symuluj_wolno">Symuluj wolność</string>
+    <string name="nazwisko">Nazwisko</string>
+    <string name="minus">-</string>
+    <string name="prowizja">Prowizja</string>
+    <string name="ilo">ilość</string>
+    <string name="pr_dko_sp_aty">Prędkość spłaty</string>
+    <string name="percentage">%</string>
+    <string name="pr_dko_c">Prędkośc</string>
+    <string name="z_s">zł/s</string>
+    <string name="pr_dko">Prędkość</string>
+    <string name="wycofaj">Wycofaj</string>
+    <string name="ilosc">ilosc</string>
+    <string name="suma_wszystkich_d_ug_w">Suma wszystkich długów</string>
+    <string name="Dodaj" />
+    <string name="dodaj">Dodaj</string>
+    <string name="zaktualizuj">Zaktualizuj</string>
+    <string name="usun">Usunąć?</string>
+    <string name="symuluj_sp_at">Symuluj spłatę</string>
+</resources>
